@@ -15,8 +15,6 @@ function Home() {
   const [filters, setFilters] = useState(defaultFilter);
   const [categories, setCategories] = useState([]);
   const [sortBy, setSortBy] = useState();
-  // const authContext = useAuthContext();
-  // const cartContext = useCartContext();
   const authData = useSelector((state) => state.auth.user);
 
   const dispatch = useDispatch();
