@@ -1,4 +1,4 @@
-# Project Link :- https://bookstore-abhi.vercel.app/login
+# Project Link :- https://bookstore-abhi.vercel.app
 
 # Getting Started with Create React App
 
